@@ -28,5 +28,6 @@ Ferramentas Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes ferramentas de criatividade computacional:
 ChatGPT: Para criação do enredo e textos.
 Notion: para organização das ideias e divisão de texto: https://www.notion.so/projeto-criatividade-computacional-2031ec10a3e28012a228d8cae7947de3
+
 Gemini: Para criação das imagens baseado no prompt gerado pelo gpt.
 Canva: para organizaçaõ de layout.
